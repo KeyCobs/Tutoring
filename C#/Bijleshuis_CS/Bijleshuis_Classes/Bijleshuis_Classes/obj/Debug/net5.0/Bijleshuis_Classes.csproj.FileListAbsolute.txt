@@ -1,0 +1,16 @@
+D:\Documenten\Bijleshuis\C#\Bijleshuis_Classes\Bijleshuis_Classes\bin\Debug\net5.0\Bijleshuis_Classes.exe
+D:\Documenten\Bijleshuis\C#\Bijleshuis_Classes\Bijleshuis_Classes\bin\Debug\net5.0\Bijleshuis_Classes.deps.json
+D:\Documenten\Bijleshuis\C#\Bijleshuis_Classes\Bijleshuis_Classes\bin\Debug\net5.0\Bijleshuis_Classes.runtimeconfig.json
+D:\Documenten\Bijleshuis\C#\Bijleshuis_Classes\Bijleshuis_Classes\bin\Debug\net5.0\Bijleshuis_Classes.runtimeconfig.dev.json
+D:\Documenten\Bijleshuis\C#\Bijleshuis_Classes\Bijleshuis_Classes\bin\Debug\net5.0\Bijleshuis_Classes.dll
+D:\Documenten\Bijleshuis\C#\Bijleshuis_Classes\Bijleshuis_Classes\bin\Debug\net5.0\Bijleshuis_Classes.pdb
+D:\Documenten\Bijleshuis\C#\Bijleshuis_Classes\Bijleshuis_Classes\obj\Debug\net5.0\Bijleshuis_Classes.csproj.AssemblyReference.cache
+D:\Documenten\Bijleshuis\C#\Bijleshuis_Classes\Bijleshuis_Classes\obj\Debug\net5.0\Bijleshuis_Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documenten\Bijleshuis\C#\Bijleshuis_Classes\Bijleshuis_Classes\obj\Debug\net5.0\Bijleshuis_Classes.AssemblyInfoInputs.cache
+D:\Documenten\Bijleshuis\C#\Bijleshuis_Classes\Bijleshuis_Classes\obj\Debug\net5.0\Bijleshuis_Classes.AssemblyInfo.cs
+D:\Documenten\Bijleshuis\C#\Bijleshuis_Classes\Bijleshuis_Classes\obj\Debug\net5.0\Bijleshuis_Classes.csproj.CoreCompileInputs.cache
+D:\Documenten\Bijleshuis\C#\Bijleshuis_Classes\Bijleshuis_Classes\obj\Debug\net5.0\Bijleshuis_Classes.dll
+D:\Documenten\Bijleshuis\C#\Bijleshuis_Classes\Bijleshuis_Classes\obj\Debug\net5.0\refint\Bijleshuis_Classes.dll
+D:\Documenten\Bijleshuis\C#\Bijleshuis_Classes\Bijleshuis_Classes\obj\Debug\net5.0\Bijleshuis_Classes.pdb
+D:\Documenten\Bijleshuis\C#\Bijleshuis_Classes\Bijleshuis_Classes\obj\Debug\net5.0\Bijleshuis_Classes.genruntimeconfig.cache
+D:\Documenten\Bijleshuis\C#\Bijleshuis_Classes\Bijleshuis_Classes\obj\Debug\net5.0\ref\Bijleshuis_Classes.dll

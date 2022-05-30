@@ -1,0 +1,16 @@
+D:\Documenten\Bijleshuis\C#\Bijleshuis_CS\Final_Charles\Chalres_Test_Answers\Chalres_Test_Answers\bin\Debug\net5.0\Chalres_Test_Answers.exe
+D:\Documenten\Bijleshuis\C#\Bijleshuis_CS\Final_Charles\Chalres_Test_Answers\Chalres_Test_Answers\bin\Debug\net5.0\Chalres_Test_Answers.deps.json
+D:\Documenten\Bijleshuis\C#\Bijleshuis_CS\Final_Charles\Chalres_Test_Answers\Chalres_Test_Answers\bin\Debug\net5.0\Chalres_Test_Answers.runtimeconfig.json
+D:\Documenten\Bijleshuis\C#\Bijleshuis_CS\Final_Charles\Chalres_Test_Answers\Chalres_Test_Answers\bin\Debug\net5.0\Chalres_Test_Answers.runtimeconfig.dev.json
+D:\Documenten\Bijleshuis\C#\Bijleshuis_CS\Final_Charles\Chalres_Test_Answers\Chalres_Test_Answers\bin\Debug\net5.0\Chalres_Test_Answers.dll
+D:\Documenten\Bijleshuis\C#\Bijleshuis_CS\Final_Charles\Chalres_Test_Answers\Chalres_Test_Answers\bin\Debug\net5.0\Chalres_Test_Answers.pdb
+D:\Documenten\Bijleshuis\C#\Bijleshuis_CS\Final_Charles\Chalres_Test_Answers\Chalres_Test_Answers\obj\Debug\net5.0\Chalres_Test_Answers.csproj.AssemblyReference.cache
+D:\Documenten\Bijleshuis\C#\Bijleshuis_CS\Final_Charles\Chalres_Test_Answers\Chalres_Test_Answers\obj\Debug\net5.0\Chalres_Test_Answers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documenten\Bijleshuis\C#\Bijleshuis_CS\Final_Charles\Chalres_Test_Answers\Chalres_Test_Answers\obj\Debug\net5.0\Chalres_Test_Answers.AssemblyInfoInputs.cache
+D:\Documenten\Bijleshuis\C#\Bijleshuis_CS\Final_Charles\Chalres_Test_Answers\Chalres_Test_Answers\obj\Debug\net5.0\Chalres_Test_Answers.AssemblyInfo.cs
+D:\Documenten\Bijleshuis\C#\Bijleshuis_CS\Final_Charles\Chalres_Test_Answers\Chalres_Test_Answers\obj\Debug\net5.0\Chalres_Test_Answers.csproj.CoreCompileInputs.cache
+D:\Documenten\Bijleshuis\C#\Bijleshuis_CS\Final_Charles\Chalres_Test_Answers\Chalres_Test_Answers\obj\Debug\net5.0\Chalres_Test_Answers.dll
+D:\Documenten\Bijleshuis\C#\Bijleshuis_CS\Final_Charles\Chalres_Test_Answers\Chalres_Test_Answers\obj\Debug\net5.0\refint\Chalres_Test_Answers.dll
+D:\Documenten\Bijleshuis\C#\Bijleshuis_CS\Final_Charles\Chalres_Test_Answers\Chalres_Test_Answers\obj\Debug\net5.0\Chalres_Test_Answers.pdb
+D:\Documenten\Bijleshuis\C#\Bijleshuis_CS\Final_Charles\Chalres_Test_Answers\Chalres_Test_Answers\obj\Debug\net5.0\Chalres_Test_Answers.genruntimeconfig.cache
+D:\Documenten\Bijleshuis\C#\Bijleshuis_CS\Final_Charles\Chalres_Test_Answers\Chalres_Test_Answers\obj\Debug\net5.0\ref\Chalres_Test_Answers.dll

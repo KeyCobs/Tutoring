@@ -1,0 +1,16 @@
+D:\Documenten\Bijleshuis\C#\Bijleshuis_Les1_Variables\Bijleshuis_Les1_Variables\bin\Debug\net5.0\Bijleshuis_Les1_Variables.exe
+D:\Documenten\Bijleshuis\C#\Bijleshuis_Les1_Variables\Bijleshuis_Les1_Variables\bin\Debug\net5.0\Bijleshuis_Les1_Variables.deps.json
+D:\Documenten\Bijleshuis\C#\Bijleshuis_Les1_Variables\Bijleshuis_Les1_Variables\bin\Debug\net5.0\Bijleshuis_Les1_Variables.runtimeconfig.json
+D:\Documenten\Bijleshuis\C#\Bijleshuis_Les1_Variables\Bijleshuis_Les1_Variables\bin\Debug\net5.0\Bijleshuis_Les1_Variables.runtimeconfig.dev.json
+D:\Documenten\Bijleshuis\C#\Bijleshuis_Les1_Variables\Bijleshuis_Les1_Variables\bin\Debug\net5.0\Bijleshuis_Les1_Variables.dll
+D:\Documenten\Bijleshuis\C#\Bijleshuis_Les1_Variables\Bijleshuis_Les1_Variables\bin\Debug\net5.0\Bijleshuis_Les1_Variables.pdb
+D:\Documenten\Bijleshuis\C#\Bijleshuis_Les1_Variables\Bijleshuis_Les1_Variables\obj\Debug\net5.0\Bijleshuis_Les1_Variables.csproj.AssemblyReference.cache
+D:\Documenten\Bijleshuis\C#\Bijleshuis_Les1_Variables\Bijleshuis_Les1_Variables\obj\Debug\net5.0\Bijleshuis_Les1_Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documenten\Bijleshuis\C#\Bijleshuis_Les1_Variables\Bijleshuis_Les1_Variables\obj\Debug\net5.0\Bijleshuis_Les1_Variables.AssemblyInfoInputs.cache
+D:\Documenten\Bijleshuis\C#\Bijleshuis_Les1_Variables\Bijleshuis_Les1_Variables\obj\Debug\net5.0\Bijleshuis_Les1_Variables.AssemblyInfo.cs
+D:\Documenten\Bijleshuis\C#\Bijleshuis_Les1_Variables\Bijleshuis_Les1_Variables\obj\Debug\net5.0\Bijleshuis_Les1_Variables.csproj.CoreCompileInputs.cache
+D:\Documenten\Bijleshuis\C#\Bijleshuis_Les1_Variables\Bijleshuis_Les1_Variables\obj\Debug\net5.0\Bijleshuis_Les1_Variables.dll
+D:\Documenten\Bijleshuis\C#\Bijleshuis_Les1_Variables\Bijleshuis_Les1_Variables\obj\Debug\net5.0\refint\Bijleshuis_Les1_Variables.dll
+D:\Documenten\Bijleshuis\C#\Bijleshuis_Les1_Variables\Bijleshuis_Les1_Variables\obj\Debug\net5.0\Bijleshuis_Les1_Variables.pdb
+D:\Documenten\Bijleshuis\C#\Bijleshuis_Les1_Variables\Bijleshuis_Les1_Variables\obj\Debug\net5.0\Bijleshuis_Les1_Variables.genruntimeconfig.cache
+D:\Documenten\Bijleshuis\C#\Bijleshuis_Les1_Variables\Bijleshuis_Les1_Variables\obj\Debug\net5.0\ref\Bijleshuis_Les1_Variables.dll

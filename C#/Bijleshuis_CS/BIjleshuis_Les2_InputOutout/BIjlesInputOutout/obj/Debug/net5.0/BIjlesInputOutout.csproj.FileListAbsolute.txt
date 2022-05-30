@@ -1,0 +1,16 @@
+D:\Documenten\Bijleshuis\C#\BIjlesInputOutout\BIjlesInputOutout\obj\Debug\net5.0\BIjlesInputOutout.csproj.AssemblyReference.cache
+D:\Documenten\Bijleshuis\C#\BIjlesInputOutout\BIjlesInputOutout\obj\Debug\net5.0\BIjlesInputOutout.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documenten\Bijleshuis\C#\BIjlesInputOutout\BIjlesInputOutout\obj\Debug\net5.0\BIjlesInputOutout.AssemblyInfoInputs.cache
+D:\Documenten\Bijleshuis\C#\BIjlesInputOutout\BIjlesInputOutout\obj\Debug\net5.0\BIjlesInputOutout.AssemblyInfo.cs
+D:\Documenten\Bijleshuis\C#\BIjlesInputOutout\BIjlesInputOutout\obj\Debug\net5.0\BIjlesInputOutout.csproj.CoreCompileInputs.cache
+D:\Documenten\Bijleshuis\C#\BIjlesInputOutout\BIjlesInputOutout\bin\Debug\net5.0\BIjlesInputOutout.exe
+D:\Documenten\Bijleshuis\C#\BIjlesInputOutout\BIjlesInputOutout\bin\Debug\net5.0\BIjlesInputOutout.deps.json
+D:\Documenten\Bijleshuis\C#\BIjlesInputOutout\BIjlesInputOutout\bin\Debug\net5.0\BIjlesInputOutout.runtimeconfig.json
+D:\Documenten\Bijleshuis\C#\BIjlesInputOutout\BIjlesInputOutout\bin\Debug\net5.0\BIjlesInputOutout.runtimeconfig.dev.json
+D:\Documenten\Bijleshuis\C#\BIjlesInputOutout\BIjlesInputOutout\bin\Debug\net5.0\BIjlesInputOutout.dll
+D:\Documenten\Bijleshuis\C#\BIjlesInputOutout\BIjlesInputOutout\bin\Debug\net5.0\BIjlesInputOutout.pdb
+D:\Documenten\Bijleshuis\C#\BIjlesInputOutout\BIjlesInputOutout\obj\Debug\net5.0\BIjlesInputOutout.dll
+D:\Documenten\Bijleshuis\C#\BIjlesInputOutout\BIjlesInputOutout\obj\Debug\net5.0\refint\BIjlesInputOutout.dll
+D:\Documenten\Bijleshuis\C#\BIjlesInputOutout\BIjlesInputOutout\obj\Debug\net5.0\BIjlesInputOutout.pdb
+D:\Documenten\Bijleshuis\C#\BIjlesInputOutout\BIjlesInputOutout\obj\Debug\net5.0\BIjlesInputOutout.genruntimeconfig.cache
+D:\Documenten\Bijleshuis\C#\BIjlesInputOutout\BIjlesInputOutout\obj\Debug\net5.0\ref\BIjlesInputOutout.dll

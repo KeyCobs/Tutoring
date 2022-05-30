@@ -1,0 +1,16 @@
+D:\Documenten\Bijleshuis\C#\Les2_Loops_And_List\Les2_Loops_And_List\bin\Debug\net5.0\Les2_Loops_And_List.exe
+D:\Documenten\Bijleshuis\C#\Les2_Loops_And_List\Les2_Loops_And_List\bin\Debug\net5.0\Les2_Loops_And_List.deps.json
+D:\Documenten\Bijleshuis\C#\Les2_Loops_And_List\Les2_Loops_And_List\bin\Debug\net5.0\Les2_Loops_And_List.runtimeconfig.json
+D:\Documenten\Bijleshuis\C#\Les2_Loops_And_List\Les2_Loops_And_List\bin\Debug\net5.0\Les2_Loops_And_List.runtimeconfig.dev.json
+D:\Documenten\Bijleshuis\C#\Les2_Loops_And_List\Les2_Loops_And_List\bin\Debug\net5.0\Les2_Loops_And_List.dll
+D:\Documenten\Bijleshuis\C#\Les2_Loops_And_List\Les2_Loops_And_List\bin\Debug\net5.0\Les2_Loops_And_List.pdb
+D:\Documenten\Bijleshuis\C#\Les2_Loops_And_List\Les2_Loops_And_List\obj\Debug\net5.0\Les2_Loops_And_List.csproj.AssemblyReference.cache
+D:\Documenten\Bijleshuis\C#\Les2_Loops_And_List\Les2_Loops_And_List\obj\Debug\net5.0\Les2_Loops_And_List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documenten\Bijleshuis\C#\Les2_Loops_And_List\Les2_Loops_And_List\obj\Debug\net5.0\Les2_Loops_And_List.AssemblyInfoInputs.cache
+D:\Documenten\Bijleshuis\C#\Les2_Loops_And_List\Les2_Loops_And_List\obj\Debug\net5.0\Les2_Loops_And_List.AssemblyInfo.cs
+D:\Documenten\Bijleshuis\C#\Les2_Loops_And_List\Les2_Loops_And_List\obj\Debug\net5.0\Les2_Loops_And_List.csproj.CoreCompileInputs.cache
+D:\Documenten\Bijleshuis\C#\Les2_Loops_And_List\Les2_Loops_And_List\obj\Debug\net5.0\Les2_Loops_And_List.dll
+D:\Documenten\Bijleshuis\C#\Les2_Loops_And_List\Les2_Loops_And_List\obj\Debug\net5.0\refint\Les2_Loops_And_List.dll
+D:\Documenten\Bijleshuis\C#\Les2_Loops_And_List\Les2_Loops_And_List\obj\Debug\net5.0\Les2_Loops_And_List.pdb
+D:\Documenten\Bijleshuis\C#\Les2_Loops_And_List\Les2_Loops_And_List\obj\Debug\net5.0\Les2_Loops_And_List.genruntimeconfig.cache
+D:\Documenten\Bijleshuis\C#\Les2_Loops_And_List\Les2_Loops_And_List\obj\Debug\net5.0\ref\Les2_Loops_And_List.dll

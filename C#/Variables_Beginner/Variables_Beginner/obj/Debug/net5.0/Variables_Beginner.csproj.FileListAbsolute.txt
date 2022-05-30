@@ -1,0 +1,16 @@
+D:\Documenten\Bijleshuis\C#\Variables_Beginner\Variables_Beginner\bin\Debug\net5.0\Variables_Beginner.exe
+D:\Documenten\Bijleshuis\C#\Variables_Beginner\Variables_Beginner\bin\Debug\net5.0\Variables_Beginner.deps.json
+D:\Documenten\Bijleshuis\C#\Variables_Beginner\Variables_Beginner\bin\Debug\net5.0\Variables_Beginner.runtimeconfig.json
+D:\Documenten\Bijleshuis\C#\Variables_Beginner\Variables_Beginner\bin\Debug\net5.0\Variables_Beginner.runtimeconfig.dev.json
+D:\Documenten\Bijleshuis\C#\Variables_Beginner\Variables_Beginner\bin\Debug\net5.0\Variables_Beginner.dll
+D:\Documenten\Bijleshuis\C#\Variables_Beginner\Variables_Beginner\bin\Debug\net5.0\Variables_Beginner.pdb
+D:\Documenten\Bijleshuis\C#\Variables_Beginner\Variables_Beginner\obj\Debug\net5.0\Variables_Beginner.csproj.AssemblyReference.cache
+D:\Documenten\Bijleshuis\C#\Variables_Beginner\Variables_Beginner\obj\Debug\net5.0\Variables_Beginner.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documenten\Bijleshuis\C#\Variables_Beginner\Variables_Beginner\obj\Debug\net5.0\Variables_Beginner.AssemblyInfoInputs.cache
+D:\Documenten\Bijleshuis\C#\Variables_Beginner\Variables_Beginner\obj\Debug\net5.0\Variables_Beginner.AssemblyInfo.cs
+D:\Documenten\Bijleshuis\C#\Variables_Beginner\Variables_Beginner\obj\Debug\net5.0\Variables_Beginner.csproj.CoreCompileInputs.cache
+D:\Documenten\Bijleshuis\C#\Variables_Beginner\Variables_Beginner\obj\Debug\net5.0\Variables_Beginner.dll
+D:\Documenten\Bijleshuis\C#\Variables_Beginner\Variables_Beginner\obj\Debug\net5.0\refint\Variables_Beginner.dll
+D:\Documenten\Bijleshuis\C#\Variables_Beginner\Variables_Beginner\obj\Debug\net5.0\Variables_Beginner.pdb
+D:\Documenten\Bijleshuis\C#\Variables_Beginner\Variables_Beginner\obj\Debug\net5.0\Variables_Beginner.genruntimeconfig.cache
+D:\Documenten\Bijleshuis\C#\Variables_Beginner\Variables_Beginner\obj\Debug\net5.0\ref\Variables_Beginner.dll

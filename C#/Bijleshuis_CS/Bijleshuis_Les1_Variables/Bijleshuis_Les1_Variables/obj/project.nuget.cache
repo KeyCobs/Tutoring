@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zM5PnhvVOjDGMNLMvVJOlJfmLRXyq4pC9lYW38n7zJ45DX8yGE67NaGduVplzEiKRcxTcSCgWmDwOCayBHzS5Q==",
+  "success": true,
+  "projectFilePath": "D:\\Documenten\\Bijleshuis\\C#\\Bijleshuis_Les1_Variables\\Bijleshuis_Les1_Variables\\Bijleshuis_Les1_Variables.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

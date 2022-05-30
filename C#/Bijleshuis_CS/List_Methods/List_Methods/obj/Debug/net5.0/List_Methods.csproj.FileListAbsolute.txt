@@ -1,0 +1,16 @@
+D:\Documenten\Bijleshuis\C#\List_Methods\List_Methods\bin\Debug\net5.0\List_Methods.exe
+D:\Documenten\Bijleshuis\C#\List_Methods\List_Methods\bin\Debug\net5.0\List_Methods.deps.json
+D:\Documenten\Bijleshuis\C#\List_Methods\List_Methods\bin\Debug\net5.0\List_Methods.runtimeconfig.json
+D:\Documenten\Bijleshuis\C#\List_Methods\List_Methods\bin\Debug\net5.0\List_Methods.runtimeconfig.dev.json
+D:\Documenten\Bijleshuis\C#\List_Methods\List_Methods\bin\Debug\net5.0\List_Methods.dll
+D:\Documenten\Bijleshuis\C#\List_Methods\List_Methods\bin\Debug\net5.0\List_Methods.pdb
+D:\Documenten\Bijleshuis\C#\List_Methods\List_Methods\obj\Debug\net5.0\List_Methods.csproj.AssemblyReference.cache
+D:\Documenten\Bijleshuis\C#\List_Methods\List_Methods\obj\Debug\net5.0\List_Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documenten\Bijleshuis\C#\List_Methods\List_Methods\obj\Debug\net5.0\List_Methods.AssemblyInfoInputs.cache
+D:\Documenten\Bijleshuis\C#\List_Methods\List_Methods\obj\Debug\net5.0\List_Methods.AssemblyInfo.cs
+D:\Documenten\Bijleshuis\C#\List_Methods\List_Methods\obj\Debug\net5.0\List_Methods.csproj.CoreCompileInputs.cache
+D:\Documenten\Bijleshuis\C#\List_Methods\List_Methods\obj\Debug\net5.0\List_Methods.dll
+D:\Documenten\Bijleshuis\C#\List_Methods\List_Methods\obj\Debug\net5.0\refint\List_Methods.dll
+D:\Documenten\Bijleshuis\C#\List_Methods\List_Methods\obj\Debug\net5.0\List_Methods.pdb
+D:\Documenten\Bijleshuis\C#\List_Methods\List_Methods\obj\Debug\net5.0\List_Methods.genruntimeconfig.cache
+D:\Documenten\Bijleshuis\C#\List_Methods\List_Methods\obj\Debug\net5.0\ref\List_Methods.dll
