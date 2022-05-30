@@ -10,6 +10,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Tutor_01_GET_POST.Data;
 
 namespace Tutor_01_GET_POST
 {
@@ -34,7 +35,8 @@ namespace Tutor_01_GET_POST
             });
 
 
-            services.AddSingleton(typeof(IBookDataList), typeof(BookDataList));
+            //services.AddSingleton(typeof(IBookDataList), typeof(BookDataList));
+            services.AddSingleton(typeof(IBookDataContext), typeof(BookDataBase));
 
         }
 

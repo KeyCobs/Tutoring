@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documenten\\Bijleshuis\\C#\\Web_Services\\Backend\\Tutor_01_GET_POST\\Tutor_01_GET_POST\\Tutor_01_GET_POST.csproj": {}
+    "D:\\Projects\\Tutoring\\C#\\Web_Services\\Backend\\Tutor_01_GET_POST\\Tutor_01_GET_POST\\Tutor_01_GET_POST.csproj": {}
   },
   "projects": {
-    "D:\\Documenten\\Bijleshuis\\C#\\Web_Services\\Backend\\Tutor_01_GET_POST\\Tutor_01_GET_POST\\Tutor_01_GET_POST.csproj": {
+    "D:\\Projects\\Tutoring\\C#\\Web_Services\\Backend\\Tutor_01_GET_POST\\Tutor_01_GET_POST\\Tutor_01_GET_POST.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documenten\\Bijleshuis\\C#\\Web_Services\\Backend\\Tutor_01_GET_POST\\Tutor_01_GET_POST\\Tutor_01_GET_POST.csproj",
+        "projectUniqueName": "D:\\Projects\\Tutoring\\C#\\Web_Services\\Backend\\Tutor_01_GET_POST\\Tutor_01_GET_POST\\Tutor_01_GET_POST.csproj",
         "projectName": "Tutor_01_GET_POST",
-        "projectPath": "D:\\Documenten\\Bijleshuis\\C#\\Web_Services\\Backend\\Tutor_01_GET_POST\\Tutor_01_GET_POST\\Tutor_01_GET_POST.csproj",
-        "packagesPath": "C:\\Users\\Kevin\\.nuget\\packages\\",
-        "outputPath": "D:\\Documenten\\Bijleshuis\\C#\\Web_Services\\Backend\\Tutor_01_GET_POST\\Tutor_01_GET_POST\\obj\\",
+        "projectPath": "D:\\Projects\\Tutoring\\C#\\Web_Services\\Backend\\Tutor_01_GET_POST\\Tutor_01_GET_POST\\Tutor_01_GET_POST.csproj",
+        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Tutoring\\C#\\Web_Services\\Backend\\Tutor_01_GET_POST\\Tutor_01_GET_POST\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,8 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.myget.org/F/discord-net/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -46,6 +44,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "LightDB": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "LiteDB": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
@@ -69,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200-preview.22055.15\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
         }
       }
     }
