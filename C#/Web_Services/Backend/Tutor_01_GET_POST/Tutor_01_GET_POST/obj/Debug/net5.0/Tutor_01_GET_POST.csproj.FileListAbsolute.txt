@@ -34,7 +34,6 @@ D:\Projects\Tutoring\C#\Web_Services\Backend\Tutor_01_GET_POST\Tutor_01_GET_POST
 D:\Projects\Tutoring\C#\Web_Services\Backend\Tutor_01_GET_POST\Tutor_01_GET_POST\bin\Debug\net5.0\Tutor_01_GET_POST.runtimeconfig.json
 D:\Projects\Tutoring\C#\Web_Services\Backend\Tutor_01_GET_POST\Tutor_01_GET_POST\bin\Debug\net5.0\Tutor_01_GET_POST.runtimeconfig.dev.json
 D:\Projects\Tutoring\C#\Web_Services\Backend\Tutor_01_GET_POST\Tutor_01_GET_POST\bin\Debug\net5.0\Tutor_01_GET_POST.dll
-D:\Projects\Tutoring\C#\Web_Services\Backend\Tutor_01_GET_POST\Tutor_01_GET_POST\bin\Debug\net5.0\ref\Tutor_01_GET_POST.dll
 D:\Projects\Tutoring\C#\Web_Services\Backend\Tutor_01_GET_POST\Tutor_01_GET_POST\bin\Debug\net5.0\Tutor_01_GET_POST.pdb
 D:\Projects\Tutoring\C#\Web_Services\Backend\Tutor_01_GET_POST\Tutor_01_GET_POST\bin\Debug\net5.0\Microsoft.OpenApi.dll
 D:\Projects\Tutoring\C#\Web_Services\Backend\Tutor_01_GET_POST\Tutor_01_GET_POST\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
@@ -65,3 +64,4 @@ D:\Projects\Tutoring\C#\Web_Services\Backend\Tutor_01_GET_POST\Tutor_01_GET_POST
 D:\Projects\Tutoring\C#\Web_Services\Backend\Tutor_01_GET_POST\Tutor_01_GET_POST\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
 D:\Projects\Tutoring\C#\Web_Services\Backend\Tutor_01_GET_POST\Tutor_01_GET_POST\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 D:\Projects\Tutoring\C#\Web_Services\Backend\Tutor_01_GET_POST\Tutor_01_GET_POST\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\Tutoring\C#\Web_Services\Backend\Tutor_01_GET_POST\Tutor_01_GET_POST\obj\Debug\net5.0\refint\Tutor_01_GET_POST.dll

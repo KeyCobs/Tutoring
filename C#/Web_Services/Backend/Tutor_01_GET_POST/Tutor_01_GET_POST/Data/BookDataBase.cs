@@ -16,5 +16,10 @@ namespace Tutor_01_GET_POST.Data
         {
             return db.GetCollection<Books>("Books").FindAll();
         }
+
+        public void DeleteBookById(int id)
+        {
+            db.GetCollection<Books>("Books").Delete(id);
+        }
     }
 }

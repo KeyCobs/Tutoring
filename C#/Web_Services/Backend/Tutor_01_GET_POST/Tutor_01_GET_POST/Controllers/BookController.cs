@@ -34,5 +34,11 @@ namespace Tutor_01_GET_POST.Controllers
             //_data.AddBooks(b);
             return Ok("Book Added");
         }
+        [HttpDelete]
+        public ActionResult Delete([FromBody] int id)
+        {
+            _data.DeleteBookById(id);
+            return Ok("book was deleted");
+        }
     }
 }

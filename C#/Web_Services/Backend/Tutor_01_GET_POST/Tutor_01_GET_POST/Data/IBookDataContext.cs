@@ -5,5 +5,6 @@ namespace Tutor_01_GET_POST.Data
     {
         void AddBook(Books b);
         IEnumerable<Books> GetBooks();
+        void DeleteBookById(int id);
     }
 }

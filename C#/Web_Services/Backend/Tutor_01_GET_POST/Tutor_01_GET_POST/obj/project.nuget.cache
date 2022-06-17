@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xVt+x4zln/IR815GkaK+WU51pfITrNpPSve7E4hMq4z0npScDwknxJJs5++KFI4IodJ7oXoN7gJJ19atza2E5Q==",
+  "dgSpecHash": "cnZVl4VT6OJit90yDNTTl1rLxXNYA16ikmGugt3Keshqjp9wOBEaciqyaKy5jNLyKIazzq2pW2cTOmGv7wZ1HA==",
   "success": true,
   "projectFilePath": "D:\\Projects\\Tutoring\\C#\\Web_Services\\Backend\\Tutor_01_GET_POST\\Tutor_01_GET_POST\\Tutor_01_GET_POST.csproj",
   "expectedPackageFiles": [
@@ -32,7 +32,8 @@
     "C:\\Users\\kevin\\.nuget\\packages\\system.data.sqlclient\\4.8.2\\system.data.sqlclient.4.8.2.nupkg.sha512",
     "C:\\Users\\kevin\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
     "C:\\Users\\kevin\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
-    "C:\\Users\\kevin\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+    "C:\\Users\\kevin\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\kevin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }
